@@ -1,0 +1,14 @@
+C:\ProgC#\task3\bin\Debug\net9.0\task3.exe
+C:\ProgC#\task3\bin\Debug\net9.0\task3.deps.json
+C:\ProgC#\task3\bin\Debug\net9.0\task3.runtimeconfig.json
+C:\ProgC#\task3\bin\Debug\net9.0\task3.dll
+C:\ProgC#\task3\bin\Debug\net9.0\task3.pdb
+C:\ProgC#\task3\obj\Debug\net9.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgC#\task3\obj\Debug\net9.0\task3.AssemblyInfoInputs.cache
+C:\ProgC#\task3\obj\Debug\net9.0\task3.AssemblyInfo.cs
+C:\ProgC#\task3\obj\Debug\net9.0\task3.csproj.CoreCompileInputs.cache
+C:\ProgC#\task3\obj\Debug\net9.0\task3.dll
+C:\ProgC#\task3\obj\Debug\net9.0\refint\task3.dll
+C:\ProgC#\task3\obj\Debug\net9.0\task3.pdb
+C:\ProgC#\task3\obj\Debug\net9.0\task3.genruntimeconfig.cache
+C:\ProgC#\task3\obj\Debug\net9.0\ref\task3.dll
