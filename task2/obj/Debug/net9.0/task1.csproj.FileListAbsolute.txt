@@ -1,0 +1,14 @@
+C:\ProgC#\task1\bin\Debug\net9.0\task1.exe
+C:\ProgC#\task1\bin\Debug\net9.0\task1.deps.json
+C:\ProgC#\task1\bin\Debug\net9.0\task1.runtimeconfig.json
+C:\ProgC#\task1\bin\Debug\net9.0\task1.dll
+C:\ProgC#\task1\bin\Debug\net9.0\task1.pdb
+C:\ProgC#\task1\obj\Debug\net9.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgC#\task1\obj\Debug\net9.0\task1.AssemblyInfoInputs.cache
+C:\ProgC#\task1\obj\Debug\net9.0\task1.AssemblyInfo.cs
+C:\ProgC#\task1\obj\Debug\net9.0\task1.csproj.CoreCompileInputs.cache
+C:\ProgC#\task1\obj\Debug\net9.0\task1.dll
+C:\ProgC#\task1\obj\Debug\net9.0\refint\task1.dll
+C:\ProgC#\task1\obj\Debug\net9.0\task1.pdb
+C:\ProgC#\task1\obj\Debug\net9.0\task1.genruntimeconfig.cache
+C:\ProgC#\task1\obj\Debug\net9.0\ref\task1.dll
